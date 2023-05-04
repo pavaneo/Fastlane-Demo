@@ -1,0 +1,7 @@
+{
+  "name": "Fastlane",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
